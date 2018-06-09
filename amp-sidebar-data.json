@@ -1,0 +1,134 @@
+{
+	"items": [
+		{
+			"id": "chandeliers",
+			"title": "Chandeliers",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "ceilingFans",
+
+			"title": "Ceiling Lights",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "lamps",
+
+			"title": "Lamps",
+			"href": null,
+			"hasSubmenu": true,
+			"submenu": []
+		},
+
+		{
+			"id": "wallLights",
+
+			"title": "Wall Lights",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "outdoorLights",
+
+			"title": "Outdoor Lights",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "ceilingFans",
+
+			"title": "Ceiling Fans",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "furniture",
+
+			"title": "Furniture",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "homeDecor",
+			"title": "Home Décor",
+			"hasSubmenu": true,
+			"href": null,
+			"submenu": []
+		},
+
+		{
+			"id": "sale",
+
+			"title": "Sale",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		},
+
+		{
+			"id": "dailySales",
+			"title": "Daily Sales",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		},
+
+		{
+			"id": "clearance",
+
+			"title": "Clearance",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		},
+
+		{
+			"id": "openBox",
+			"title": "Open Box",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		},
+
+		{
+			"id": "roomInspiration",
+
+			"title": "Room Inspiration",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		},
+
+		{
+			"id": "shopTrend",
+			"title": "Shop by Trend",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		},
+
+		{
+			"id": "ideasAndAdvice",
+
+			"title": "Ideas and Advice",
+			"hasSubmenu": false,
+			"href": "/products/onsale_view-on-sale-items/",
+			"submenu": null
+		}
+
+	]
+}
